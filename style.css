@@ -1,0 +1,64 @@
+body {
+    width: 450px;
+    height:450px;
+    background-color:white;
+    padding: 15px 20px;
+    margin: 10px;
+}
+#start {
+    display: block;
+    text-align: center;
+}
+#start button {
+    display: block;
+    padding: 23px;
+    width: 200px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    margin: 50px auto;
+}
+#encouragement {
+    background-color: #f6da02;
+}
+#inspiration {
+    background-color: #1c86ee;
+    
+}
+#comfort {
+    background-color: #de8080;
+}
+#main {
+    display: none;
+}
+.music, .quotes {
+    padding: 10px;
+}
+h2 {
+    font-size: 25px;
+    font-weight: 400;
+}
+#content {
+   font-size: 20px; 
+}
+#author {
+    text-align: center;
+    font-size: 17px;
+}
+.song {
+    text-align: center;
+}
+#song {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#artist {
+    text-align: center;
+    font-size: 17px;
+}
+#rechoose {
+    margin-top: 35px;
+    text-align: center;
+    cursor: pointer;
+}

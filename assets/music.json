@@ -1,0 +1,267 @@
+[
+    {
+        "song": "On Melancholy Hill",
+        "src": "https://youtu.be/04mfKJWDSzI",
+        "artist": "Gorillaz",
+        "topic": ["comforting"]
+    },
+    {
+        "song": "Let It Happen",
+        "src" : "https://youtu.be/pFptt7Cargc",
+        "artist": "Tame Impala",
+        "topic": ["encouragement"]
+    },
+    {
+        "song": "Fix You",
+        "src": "https://youtu.be/k4V3Mo61fJM",
+        "artist": "Coldplay",
+        "topic": ["comforting"]
+    },
+    {
+        "song": "Bad Day",
+        "src": "https://youtu.be/gH476CxJxfg",
+        "artist": "Daniel Powter",
+        "topic": ["comforting"]
+    },
+    {
+        "song": "Eye Of The Tiger",
+        "src": "https://youtu.be/btPJPFnesV4",
+        "artist": "Survivor",
+        "topic": ["encouragement"]
+    },
+    {
+        "song": "Best Of You",
+        "src": "https://youtu.be/h_L4Rixya64",
+        "artist": "Foo Fighter",
+        "topic": ["encouragement"]
+    },
+    {
+        "song": "Mr. Blue Sky",
+        "src": "https://youtu.be/aQUlA8Hcv4s",
+        "artist": "Electric Light Orchestra",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Seven Nation Army",
+        "src": "https://youtu.be/0J2QdDbelmY",
+        "artist": "The White Stripes",
+        "topic": ["encouragement"]
+    },
+    {
+        "song": "Lose Yourself",
+        "src": "https://youtu.be/_Yhyp-_hX2s",
+        "artist": "Eminem",
+        "topic": ["encouragement","inspiration"]
+    },
+    {
+        "song": "Remember The Name",
+        "src": "https://youtu.be/VDvr08sCPOc",
+        "artist": "Fort Minor",
+        "topic": ["encouragement","inspiration"]
+    },
+    {
+        "song": "Don't Stop Me Now",
+        "src": "https://youtu.be/HgzGwKwLmgM",
+        "artist": "Queen",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Learn To Fly",
+        "src": "https://youtu.be/1VQ_3sBZEm0",
+        "artist": "Foo Fighters",
+        "topic": ["inspiration","encouragement"]
+    },
+    {
+        "song": "Hold On",
+        "src": "https://youtu.be/47jR23zHgPo",
+        "artist": "Jet",
+        "topic": ["comforting"]
+    },
+    {
+        "song": "Somewhere Only We Know",
+        "src": "https://youtu.be/Oextk-If8HQ",
+        "artist": "Keane",
+        "topic": ["comforting"]
+    },
+    {
+        "song": "Angels",
+        "src": "https://youtu.be/luwAMFcc2f8",
+        "artist": "Robbie Wiliams",
+        "topic": ["comforting"]
+    },
+    {
+        "song": "Comfortably Numb",
+        "src": "https://youtu.be/_FrOQC-zEog",
+        "artist": "Pink Floyd",
+        "topic": ["comforting"]
+    },
+    {
+        "song": "Shine",
+        "src": "https://youtu.be/JwC1Ctrj6Xk",
+        "artist": "Take That",
+        "topic": ["encouragement"]
+    },
+    {
+        "song": "a lot",
+        "src": "https://youtu.be/DmWWqogr_r8",
+        "artist": "21 Savage ft. J. Cole",
+        "topic": ["encouragement"]
+    },
+    {
+        "song": "Feeling A Moment",
+        "src": "https://youtu.be/4a4ScRBLUHg",
+        "artist": "Feeder",
+        "topic": ["encouragement"]
+    },
+    {
+        "song": "Ride",
+        "src": "https://youtu.be/JwC1Ctrj6Xk",
+        "artist": "Twenty One Pilots",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Walk",
+        "src": "https://youtu.be/4PkcfQtibmU",
+        "artist": "Foo Fighters",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "still feel",
+        "src": "https://youtu.be/KOOhPfMbuIQ",
+        "artist": "half•alive",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "It's Time",
+        "src": "https://youtu.be/sENM2wA_FTg",
+        "artist": "Imagine Dragons",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Underdog",
+        "src": "https://youtu.be/Gw09tAcNB0Q",
+        "artist": "Kasabian",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Stand By Me",
+        "src": "https://youtu.be/N9kdHXrJYF8",
+        "artist": "Oasis",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Whatever",
+        "src": "https://youtu.be/EHfx9LXzxpw",
+        "artist": "Oasis",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "1-800-273-8255",
+        "src": "https://youtu.be/Kb24RrHIbFk",
+        "artist": "Logic ft. Alessia Cara, Khalid",
+        "topic": ["comforting"]
+    },
+    {
+        "song": "Chasing Cars",
+        "src": "https://youtu.be/GemKqzILV4w",
+        "artist": "Snow Patrol",
+        "topic": ["comforting"]
+    },
+    {
+        "song": "Coffee And TV",
+        "src": "https://youtu.be/6oqXVx3sBOk",
+        "artist": "Blur",
+        "topic": ["comforting"]
+    },
+    {
+        "song": "Drops Of Jupiter",
+        "src": "https://youtu.be/7Xf-Lesrkuc",
+        "artist": "Train",
+        "topic": ["comforting","inspiration"]
+    },
+    {
+        "song": "Last Hope",
+        "src": "https://youtu.be/yBatuRGZAmA",
+        "artist": "Paramore",
+        "topic": ["encouragement"]
+    },
+    {
+        "song": "Try",
+        "src": "https://youtu.be/pPtlSF4TlJE",
+        "artist": "Paramore",
+        "topic": ["encouragement","comforting","inspiration"]
+    },
+    {
+        "song": "Little Wonders",
+        "src": "https://youtu.be/q6wZhd8M848",
+        "artist": "Rob Thomas",
+        "topic": ["encouragement","inspiration"]
+    },
+    {
+        "song": "Snow (Hey Oh)",
+        "src": "https://youtu.be/q6wZhd8M848",
+        "artist": "Red Hot Chili Peppers",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "The Flood",
+        "src": "https://youtu.be/aCHg5r6rFoI",
+        "artist": "Take That",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "What Do I Know",
+        "src": "https://youtu.be/6B9J3lEyffA",
+        "artist": "Ed Sheeran",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Cinderella Man",
+        "src": "https://youtu.be/cjddzkJ7GpM",
+        "artist": "Eminem",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Written In The Stars",
+        "src": "https://youtu.be/YgFyi74DVjc",
+        "artist": "Tinie Tempah ft. Eric Turner",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Move Along",
+        "src": "https://youtu.be/XleOkGsYgO8",
+        "artist": "The All-American Rejects",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Superheroes",
+        "src": "https://youtu.be/WIm1GgfRz6M",
+        "artist": "The Script",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "Hall Of Fame",
+        "src": "https://youtu.be/mk48xRzuNvA",
+        "artist": "The Script ft. will.i.am",
+        "topic": ["inspiration","encouragement"]
+    },
+    {
+        "song": "Stronger",
+        "src": "https://youtu.be/PsO6ZnUZI0g",
+        "artist": "Kanye West",
+        "topic": ["inspiration","encouragement"]
+    },
+    {
+        "song": "Vagabond",
+        "src": "https://youtu.be/ThtGuKy27qk",
+        "artist": "Wolfmother",
+        "topic": ["inspiration"]
+    },
+    {
+        "song": "All Star",
+        "src": "https://youtu.be/L_jWHffIx5E",
+        "artist": "Smash Mouth",
+        "topic": ["inspiration"]
+    }
+
+]
